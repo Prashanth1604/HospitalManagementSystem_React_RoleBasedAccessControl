@@ -38,7 +38,7 @@ link for reference- https://www.geeksforgeeks.org/how-to-install-reactjs-on-wind
 
 <br>
 ### How it works  <br>
-Login System: When users visit the app, they are first presented with a login page. Upon entering their credentials (username and password), the system checks if they match any of the predefined users.<br><br>
+A.Login System: When users visit the app, they are first presented with a login page. Upon entering their credentials (username and password), the system checks if they match any of the predefined users.<br><br>
 Admin login credentials:<br>
 username: admin@admin.com<br>
 Password: admin123<br><br>
@@ -51,7 +51,11 @@ Patient login credentials:<br>
 username: patient@patient.com<br>
 Password: patient123<br>
 
+B.Role-based Pages: After logging in, the app checks the user's role and redirects them to the appropriate page:<br>
 
+Admin: Redirected to /admin to manage the system.<br>
+Doctor: Redirected to /doctor to manage their schedule and view appointments.<br>
+Patient: Redirected to /patient to view their appointments and health records.<br>
 
 
 
