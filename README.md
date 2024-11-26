@@ -57,6 +57,6 @@ Admin: Redirected to /admin to manage the system.<br>
 Doctor: Redirected to /doctor to manage their schedule and view appointments.<br>
 Patient: Redirected to /patient to view their appointments and health records.<br>
 
-
+C.Private Routes: The routes are protected by a context that manages the logged-in user's information. Unauthorized users trying to access a page without logging in will be redirected to the login page.
 
 
