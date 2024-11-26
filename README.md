@@ -29,7 +29,7 @@ link for reference- https://www.geeksforgeeks.org/how-to-install-reactjs-on-wind
 ### 2. Then run the following command to install the required dependencies:<br>
             npm install
 ### 3. Start the app 
-        use the following command: npm start
+             npm start
 
 <br>
 ### Structure of the file<br>
