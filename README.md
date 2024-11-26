@@ -33,13 +33,15 @@ link for reference- https://www.geeksforgeeks.org/how-to-install-reactjs-on-wind
 
 <br>
 ### Structure of the file<br><br><br>
+![image](https://github.com/user-attachments/assets/b3083fbb-a230-412a-8194-556f12a3a922) <br>
+
 
 <br>
 ### How it works  <br>
-Login System: When users visit the app, they are first presented with a login page. Upon entering their credentials (username and password), the system checks if they match any of the predefined users.<br><br><br>
+Login System: When users visit the app, they are first presented with a login page. Upon entering their credentials (username and password), the system checks if they match any of the predefined users.<br><br>
 Admin login credentials:<br>
 username: admin@admin.com<br>
-Password: admin123<br>
+Password: admin123<br><br>
 
 Doctor login credentials:<br>
 username: doctor@doctor.com<br>
