@@ -32,12 +32,11 @@ link for reference- https://www.geeksforgeeks.org/how-to-install-reactjs-on-wind
              npm start
 
 <br>
-### Structure of the file<br>
-![image](https://github.com/user-attachments/assets/a34cb831-d36e-43ce-b8d0-fd7f6acae015)
+### Structure of the file<br><br><br>
 
 <br>
 ### How it works  <br>
-Login System: When users visit the app, they are first presented with a login page. Upon entering their credentials (username and password), the system checks if they match any of the predefined users.<br>
+Login System: When users visit the app, they are first presented with a login page. Upon entering their credentials (username and password), the system checks if they match any of the predefined users.<br><br><br>
 Admin login credentials:<br>
 username: admin@admin.com<br>
 Password: admin123<br>
