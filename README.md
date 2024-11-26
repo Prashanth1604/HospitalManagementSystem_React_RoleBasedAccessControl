@@ -33,7 +33,8 @@ link for reference- https://www.geeksforgeeks.org/how-to-install-reactjs-on-wind
 
 <br>
 ### Structure of the file<br><br><br>
-[![image](https://github.com/user-attachments/assets/b3083fbb-a230-412a-8194-556f12a3a922)](https://github.com/Prashanth1604/HospitalManagementSystem_React_RoleBasedAccessControl/blob/main/structure%20of%20files.png) <br>
+ 
+![structure of files](https://github.com/user-attachments/assets/de023b9f-0525-48c3-b4f8-234eab8c077d)  <br>
 
 
 <br>
